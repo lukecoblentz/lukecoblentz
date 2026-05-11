@@ -35,4 +35,4 @@ APIs, webhooks
 
 📧 lukecoblentz.dev@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/luke-coblentz-99a6a7292/)  
-🌐 [Portfolio](https://lukecoblentz.github.io/)
+🌐 [Portfolio](https://lukecoblentz.com)
