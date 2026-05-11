@@ -1,36 +1,38 @@
 # Luke Coblentz
 
-Cybersecurity student building skills in Linux, networking, Python, web security, and hands-on labs.
+Cybersecurity student at USF Sarasota-Manatee. Focused on network forensics, 
+incident response, and secure system design.
 
-## About Me
-I’m building a portfolio focused on cybersecurity, scripting, and practical technical projects.  
-Right now I’m learning by creating small tools, documenting labs, and improving my workflow across Linux, Windows, and macOS.
+## About
 
-## Current Focus
-- Linux fundamentals
-- Python scripting
-- Networking basics
-- Web security
-- Git and GitHub
-- Building a personal portfolio site
+Junior pursuing a B.S. in Information Assurance & Cybersecurity Management at 
+the University of South Florida. Hands-on with Wireshark, Nmap, Nessus, and 
+PCAP analysis. Currently CTO at Coravu LLC, where I designed the multi-tenant 
+security architecture for a pre-launch B2B SaaS platform using PostgreSQL 
+row-level security across 16+ tables.
 
-## Projects
-I’ll be adding projects here as I build them.
+Interested in federal cybersecurity work, network defense, and the security 
+side of full-stack systems.
 
-### Planned Repositories
-- `cyber-labs` — notes, labs, and writeups
-- `python-scripts` — useful security and automation scripts
-- `linux-notes` — Linux commands, concepts, and workflows
-- `portfolio-site` — personal website and portfolio
+## Skills
 
-## Tools & Skills
-- Linux
-- Windows
-- GitHub
-- Python
-- HTML/CSS
-- Networking
-- Cybersecurity labs
+**Security & Networking** — TCP/IP, Wireshark, Nmap, Nessus, PCAP analysis, 
+network forensics, vulnerability assessment, Windows Event Viewer  
+**Languages & Scripting** — SQL, Python, HTML, CSS  
+**Backend & Infrastructure** — PostgreSQL, Supabase, row-level security, REST 
+APIs, webhooks  
+**Tooling** — Git, GitHub, Sentry, PostHog, BetterStack
+
+## Coursework Projects
+
+- **Incident Response & Forensic Analysis** — Reconstructed a multi-stage 
+  cyberattack from PCAP data; identified credential compromise, lateral 
+  movement, and C2 activity
+- **Vulnerability Assessment & Penetration Testing** — Network vulnerability 
+  scanning with Nmap and Nessus; risk prioritization and remediation reporting
 
 ## Contact
-- Email: lukecoblentz.dev@gmail.com
+
+📧 lukecoblentz.dev@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/luke-coblentz-99a6a7292/)  
+🌐 [Portfolio](https://lukecoblentz.github.io/)
